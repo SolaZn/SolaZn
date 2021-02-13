@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! 
+Anthony here!
+I'm just a student here at Paris University (@Univ_Paris on 🐦).
+I'm coding all kinds of things as part of my school projects.
+Thanks anyway for stopping by!
 
 <!--
 **maketheswitch/maketheswitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
