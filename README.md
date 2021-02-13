@@ -1,7 +1,7 @@
 ### Hi! 
 Anthony here!
-I'm just a student here at Paris University (@Univ_Paris on 🐦).
-I'm coding all kinds of things as part of my school projects.
+I'm just a student here at Paris University (@Univ_Paris on 🐦).  
+I'm coding all kinds of things as part of my school projects.  
 Thanks anyway for stopping by!
 
 <!--
